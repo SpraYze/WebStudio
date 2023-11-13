@@ -1,19 +1,11 @@
-h3:nth-child(-n+2) {
-    color: pink
+b {
+    color: white;
 }
 
-p:nth-child(5) {
-    color: red
+.blonk {
+    color: grey;
 }
 
-p:nth-child(3) {
-    color: grey
-}
-
-p:nth-child(n+7) {
-    color: green
-}
-
-p:nth-child(n+8) {
-    color: yellow;
+.al {
+    color: black;
 }
